@@ -2,14 +2,14 @@ angular.module('gdgXBoomerang')
 .factory('Config', function () {
     return {
         // TODO Modify these to configure your app
-        'name'          : 'GDG Space Coast',
-        'id'            : '103959793061819610212',
-        'googleApi'     : '<insert your API key here>',
+        'name'          : 'GDG Berkeley',
+        'id'            : '106554249212421948611',
+        'googleApi'     : 'AIzaSyC3AqvA6uXvZzfN0vjTuRyejBjvbmBwjWg',
         'pwaId'         : '5915725140705884785', // Picasa Web Album id, must belong to Google+ id above
-        'domain'        : 'http://www.gdgspacecoast.org',
+        'domain'        : 'http://gdgberkeley.github.io',
         'twitter'       : 'gdgspacecoast',
         'facebook'      : 'gdgspacecoast',
-        'meetup'        : 'gdgspacecoast',
+        'meetup'        : 'gdgberkeley',
         // Change to 'EEEE, MMMM d, y - H:mm' for 24 hour time format.
         'dateFormat'    : 'EEEE, MMMM d, y - h:mm a',
         'cover' : {
